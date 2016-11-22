@@ -1,0 +1,20 @@
+# The following python scritps and examples were put together
+# using IntelliJ IDEA 2016.2.4, Python 3.5.2 | Aanaconda 4.1.1
+# for 64-bit systems.  While you should be able to run these
+# examples within different environments this information
+# does not provide steps on how to do that.
+
+# Dependencies
+# Python 3.5.2 or higher
+# SimpleAI
+#  docs - simpleai.readthedocs.io/en/latest/#
+#  github - https://github.com/simpleai-team/simpleai
+
+# Installation will use the Python pip utility
+# Run the following to get the base libraries
+#       pip install simpleai
+# Run the following to use interactive search viewers
+#       pip install pydot flask
+
+NOTE: Python 3 support not available yet
+
